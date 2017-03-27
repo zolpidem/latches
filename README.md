@@ -1,5 +1,5 @@
 # latches
-Simple, but secure, chatrooms (a learning project).
+Simple, but secure, chat rooms (a learning project).
 
 ## Features
 - Encrypted by default
