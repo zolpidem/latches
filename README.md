@@ -1,5 +1,5 @@
 # latches
-Secure chat rooms (learning project).
+A simple, but secure client/server chat room (a learning project).
 
 ## Features
 - Encrypted by default
